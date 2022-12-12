@@ -1,0 +1,46 @@
+@charset "UTF-8";
+#wrap{
+	width: 971px;
+	display:block;
+	margin: 0 auto;
+}
+img{
+	display: block;
+	margin: 0 auto;
+}
+header{
+	text-align : center;
+	background-color: green;
+	height :  90px;
+	line-height: 90px;
+	color: white;
+}
+nav {
+	text-align : right;
+	background-color: yellowgreen;
+	height : 55px;
+	line-height: 55px;
+	 width:100%;
+}
+section{
+	vertical-align: center;
+	height : 700px;
+}
+ table{
+	margin-left: auto; margin-right: auto;
+} 
+
+footer{
+	text-align : center;
+	height : 55px;
+	line-height:55px;
+	background-color: green;
+	color:#FFFFFF;
+}
+a{
+	text-decoration: none;
+}
+.button_center{
+	display: flex; justify-content: center;
+	margin: 10px 10px;
+}
